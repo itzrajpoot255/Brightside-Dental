@@ -4,8 +4,8 @@
 
 Brightside Dental is a front-end marketing site built to look like a real dental clinic would actually pay for a full-bleed hero, six services, live-counting stats, a before/after comparison slider you can drag, an appointment booking modal with real validation, and a dark/light theme that remembers your choice, all styled with a dark navy and gold "Luxury Dental" identity instead of the usual plain blue clinic template.
 
-🔗 **Repository:** (add your GitHub repo link here)
-🌐 **Live Demo:** (add your Vercel link here once deployed)
+🔗 **Repository:** https://github.com/itzrajpoot255/Brightside-Dental
+🌐 **Live Demo:** https://brightside-dental-ten.vercel.app/
 
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Made with](https://img.shields.io/badge/made%20with-JavaScript-yellow)
@@ -63,8 +63,8 @@ dental-clinic/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/cloudexify-web-p3-yourname.git
-   cd cloudexify-web-p3-yourname
+   git clone https://github.com/itzrajpoot255/Brightside-Dental.git
+   cd Brightside-Dental
    ```
 
 2. **Run it** no install, no build step required. Either:
