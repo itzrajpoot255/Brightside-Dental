@@ -1,5 +1,5 @@
 /* =========================================================
-   MERIDIAN DENTAL Build Track: "Luxury Dental"
+   MERIDIAN DENTAL — Build Track: "Luxury Dental"
    Dark navy + muted gold, elegant serif headings, editorial feel.
    Inspired by premium aesthetic-clinic websites.
    ========================================================= */
@@ -102,7 +102,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 .badge-eyebrow-light { color: var(--gold-light); }
 .badge-eyebrow-light::before { background: var(--gold-light); }
-.badge-eyebrow.no-dash::before { display: none; }
 
 /* ---------- Top utility bar ---------- */
 .top-bar {
