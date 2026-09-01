@@ -1,11 +1,11 @@
 # 🦷 Brightside Dental
 
-**A premium dental clinic landing page with a live appointment booking flow, an animated stats counter, and a draggable before/after slider — all from a single static site.**
+**A premium dental clinic landing page with a live appointment booking flow, an animated stats counter, and a draggable before/after slider all from a single static site.**
 
-Brightside Dental is a front-end marketing site built to look like a real dental clinic would actually pay for — a full-bleed hero, six services, live-counting stats, a before/after comparison slider you can drag, an appointment booking modal with real validation, and a dark/light theme that remembers your choice, all styled with a dark navy and gold "Luxury Dental" identity instead of the usual plain blue clinic template.
+Brightside Dental is a front-end marketing site built to look like a real dental clinic would actually pay for a full-bleed hero, six services, live-counting stats, a before/after comparison slider you can drag, an appointment booking modal with real validation, and a dark/light theme that remembers your choice, all styled with a dark navy and gold "Luxury Dental" identity instead of the usual plain blue clinic template.
 
-🔗 **Repository:** _(add your GitHub repo link here)_
-🌐 **Live Demo:** _(add your Vercel link here once deployed)_
+🔗 **Repository:** (add your GitHub repo link here)
+🌐 **Live Demo:** (add your Vercel link here once deployed)
 
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Made with](https://img.shields.io/badge/made%20with-JavaScript-yellow)
@@ -67,7 +67,7 @@ dental-clinic/
    cd cloudexify-web-p3-yourname
    ```
 
-2. **Run it** — no install, no build step required. Either:
+2. **Run it** no install, no build step required. Either:
    - Open `index.html` directly in your browser, **or**
    - Serve it locally for the best experience:
      ```bash
@@ -75,7 +75,7 @@ dental-clinic/
      ```
      then visit `http://localhost:8000`
 
-3. **Try it out** — scroll to trigger the stats counter, drag the before/after slider, book a test appointment (try submitting it empty first to see validation), flip through the testimonials, and toggle dark mode.
+3. **Try it out** scroll to trigger the stats counter, drag the before/after slider, book a test appointment (try submitting it empty first to see validation), flip through the testimonials, and toggle dark mode.
 
 ---
 
@@ -87,7 +87,7 @@ Add your own desktop and mobile screenshots to a `screenshots/` folder and link 
 
 ## ⚠️ Known Limitations
 
-- Appointment form is validated client-side only — there's no backend, so submissions aren't actually saved or emailed anywhere yet
+- Appointment form is validated client-side only there's no backend, so submissions aren't actually saved or emailed anywhere yet
 - Images are placeholders from `placehold.co`, not real clinic photos
 - Contact details, doctor name and address are placeholder/sample data
 - Single clinic/location only — no multi-branch support
