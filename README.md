@@ -22,7 +22,7 @@ Brightside Dental is a front-end marketing site built to look like a real dental
 | 🔢 **Animated Stats Counter** | Patient count, years of experience, satisfaction rate and specialist count count up from zero the moment they scroll into view, using `IntersectionObserver` |
 | 🖼️ **Before & After Slider** | Drag the handle (mouse or touch) to reveal treatment results side by side |
 | 📅 **Appointment Booking Modal** | Name, phone, email, date, time slot and service type, with real client-side validation before it shows a confirmation |
-| 🗓️ **Service Catalog** | 6 core services — cleaning, whitening, braces, root canal, implants, cosmetic dentistry — each with its own card |
+| 🗓️ **Service Catalog** | 6 core services cleaning, whitening, braces, root canal, implants, cosmetic dentistry — each with its own card |
 | 💬 **Testimonials Carousel** | Auto-rotating patient reviews with star ratings |
 | 💰 **Pricing Tiers** | Three plans (Basic / Standard / Premium) with a "Most Popular" badge on the recommended one |
 | ❓ **FAQ Accordion** | Common questions, only one answer open at a time |
