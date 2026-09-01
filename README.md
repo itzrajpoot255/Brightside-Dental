@@ -35,7 +35,7 @@ Brightside Dental is a front-end marketing site built to look like a real dental
 ## 🛠️ Tech Stack
 
 - **Language:** Vanilla JavaScript (ES6)
-- **UI Framework:** Bootstrap 5 (via CDN — no build step)
+- **UI Framework:** Bootstrap 5 (via CDN no build step)
 - **Icons:** Bootstrap Icons
 - **Fonts:** Fraunces + Inter (Google Fonts)
 - **Data storage:** Browser `localStorage` (theme preference only)
